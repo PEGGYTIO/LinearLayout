@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LinearLayout">
-        <activity android:name=".activity_ac"></activity>
         <activity android:name=".TicTacToe">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
